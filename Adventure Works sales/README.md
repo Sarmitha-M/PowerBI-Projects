@@ -1,6 +1,6 @@
-# 🚴 Adventure Works Sales Analytics Dashboard
+#  Adventure Works Sales Analytics Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an interactive **Sales Analytics Dashboard** developed using **Microsoft Power BI** for **Adventure Works Cycles**, Microsoft's fictional bicycle manufacturing and retail company.
 
@@ -8,7 +8,7 @@ The dashboard provides a comprehensive overview of sales performance, product de
 
 ---
 
-# 🏢 Company Overview
+#  Company Overview
 
 **Adventure Works Cycles** is a global bicycle manufacturing and retail company that produces and sells premium bicycles and cycling products.
 
@@ -26,7 +26,7 @@ Adventure Works serves customers across different regions and supports multiple 
 
 ---
 
-# 🎯 Business Objectives
+#  Business Objectives
 
 The dashboard was designed to answer the following business questions:
 
@@ -39,7 +39,7 @@ The dashboard was designed to answer the following business questions:
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 - Microsoft Power BI Desktop
 - Power Query
@@ -49,7 +49,7 @@ The dashboard was designed to answer the following business questions:
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ### 1. Data Import
 
@@ -94,7 +94,7 @@ Analyzed:
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
 ### Executive Dashboard
 
@@ -106,7 +106,7 @@ Analyzed:
 
 ---
 
-# 📈 Business Insights
+#  Business Insights
 
 ### Product Category Performance
 
@@ -146,7 +146,7 @@ allowing flexible exploration of sales performance.
 
 ---
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 - Maintain sufficient inventory for Mountain Bikes and Road Bikes to meet customer demand.
 - Increase promotional efforts for Touring Bikes and E-Bikes to expand market share.
@@ -156,7 +156,7 @@ allowing flexible exploration of sales performance.
 
 ---
 
-# 🌐 Power BI Service
+# 🌐Power BI Service
 
 This dashboard has been published to **Microsoft Power BI Service**, allowing users to access and interact with the report online without requiring Power BI Desktop.
 
@@ -169,26 +169,15 @@ This dashboard has been published to **Microsoft Power BI Service**, allowing us
 - Drill-down Analysis
 - Responsive Layout
 
-**Live Dashboard**
-
-🔗 *(Add your Power BI Service link here.)*
-
 ---
 
-# 📸 Dashboard Preview
-
-*(Insert dashboard screenshots here.)*
-
----
-
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 Adventure-Works-Sales-Dashboard/
 │
 ├── Dataset/
 ├── Power BI/
-├── Dashboard Images/
 ├── Business Report/
 ├── README.md
 └── LICENSE
@@ -196,7 +185,7 @@ Adventure-Works-Sales-Dashboard/
 
 ---
 
-# 🚀 Skills Demonstrated
+#  Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -212,6 +201,6 @@ Adventure-Works-Sales-Dashboard/
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This project demonstrates the development of an end-to-end sales analytics solution using Microsoft Power BI. By integrating data preparation, modeling, DAX calculations, and interactive visualizations, the dashboard provides valuable insights into product performance, sales distribution, and customer purchasing behavior. The solution enables business stakeholders to monitor performance, identify growth opportunities, and support data-driven decision-making through an intuitive and interactive reporting experience.
